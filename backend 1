@@ -1,0 +1,10 @@
+smart-money-ai/
+└── backend/
+    ├── app/
+    │   ├── main.py
+    │   ├── config.py
+    │   ├── routes/
+    │   ├── services/
+    │   └── models/
+    ├── requirements.txt
+    └── .env
